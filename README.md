@@ -7,3 +7,4 @@
 5. [Clustering Based Feature Learning on Variable Stars](http://adsabs.harvard.edu/abs/2016arXiv160208977M): *first unsupervised feature learning algorithm designed for variable stars*
 6. [FITS Image Software Packages for image viewing, analysis, and format conversion](http://fits.gsfc.nasa.gov/fits_viewer.html)
 7. [ccdproc](https://github.com/astropy/ccdproc): *provides many of the necessary tools for processing of ccd images*
+8. [astropyp](https://github.com/fred3m/astropyp): *Astropyp is a python package designed to aid observers in processing and analyzing astronomical images.*
