@@ -8,3 +8,7 @@
 6. [FITS Image Software Packages for image viewing, analysis, and format conversion](http://fits.gsfc.nasa.gov/fits_viewer.html)
 7. [ccdproc](https://github.com/astropy/ccdproc): *provides many of the necessary tools for processing of ccd images*
 8. [astropyp](https://github.com/fred3m/astropyp): *Astropyp is a python package designed to aid observers in processing and analyzing astronomical images.*
+
+### Literature
+
+1. [The Clusters AgeS Experiment (CASE). Variable stars in the field of the globular cluster NGC 3201, Kaluzny et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160401362K)
