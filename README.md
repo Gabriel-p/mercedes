@@ -8,6 +8,7 @@
 6. [FITS Image Software Packages for image viewing, analysis, and format conversion](http://fits.gsfc.nasa.gov/fits_viewer.html)
 7. [ccdproc](https://github.com/astropy/ccdproc): *provides many of the necessary tools for processing of ccd images*
 8. [astropyp](https://github.com/fred3m/astropyp): *Astropyp is a python package designed to aid observers in processing and analyzing astronomical images.*
+9. [arghphot](https://github.com/balbinot/arghphot): check it out, could be of use.
 
 ### Literature
 
