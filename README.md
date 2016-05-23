@@ -15,3 +15,4 @@
 1. [The Clusters AgeS Experiment (CASE). Variable stars in the field of the globular cluster NGC 3201, Kaluzny et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160401362K)
 2. [Detection and Removal of Artifacts in Astronomical Images, Desai et al. (2016)](http://arxiv.org/abs/1601.07182): *More generally, our algorithm can be applied to any survey which images the same part of the sky multiple times.*
 3. [Variable stars identification in digitized photographic data, Sokolovsky et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160503571S)
+4. [Many new variable stars discovered in the core of the globular cluster NGC 6715 (M54) with EMCCD observations, Figuera et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160506141F)
