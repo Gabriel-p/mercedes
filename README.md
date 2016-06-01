@@ -17,4 +17,4 @@
 3. [Variable stars identification in digitized photographic data, Sokolovsky et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160503571S)
 4. [Many new variable stars discovered in the core of the globular cluster NGC 6715 (M54) with EMCCD observations, Figuera et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160506141F)
 5. [An AO-assisted variability study of four globular clusters, Salinas et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160506517S)
-6. [merican Association of Variable Star Observers](https://www.aavso.org/)
+6. [American Association of Variable Star Observers](https://www.aavso.org/)
