@@ -19,3 +19,4 @@
 5. [An AO-assisted variability study of four globular clusters, Salinas et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160506517S)
 6. [American Association of Variable Star Observers](https://www.aavso.org/)
 7. [A study of variable stars in the open cluster NGC 1582 and its surrounding field, Somg et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160604792S)
+8. [New variable stars discovered in the fields of three Galactic open clusters using the VVV Survey, Palma et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160605028P)
