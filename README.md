@@ -20,3 +20,4 @@
 6. [American Association of Variable Star Observers](https://www.aavso.org/)
 7. [A study of variable stars in the open cluster NGC 1582 and its surrounding field, Somg et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160604792S)
 8. [New variable stars discovered in the fields of three Galactic open clusters using the VVV Survey, Palma et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160605028P)
+9. [Variable Stars in the Quintuplet stellar sluster with the VVV Survey, Navarro et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160701795N)
