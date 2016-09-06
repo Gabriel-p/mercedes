@@ -9,6 +9,7 @@
 7. [ccdproc](https://github.com/astropy/ccdproc): *provides many of the necessary tools for processing of ccd images*
 8. [astropyp](https://github.com/fred3m/astropyp): *Astropyp is a python package designed to aid observers in processing and analyzing astronomical images.*
 9. [arghphot](https://github.com/balbinot/arghphot): check it out, could be of use.
+10. [photutils](https://photutils.readthedocs.io): tools for detecting and performing photometry of astronomical sources
 
 ### Literature
 
