@@ -8,9 +8,10 @@
 6. [FITS Image Software Packages for image viewing, analysis, and format conversion](http://fits.gsfc.nasa.gov/fits_viewer.html)
 7. [ccdproc](https://github.com/astropy/ccdproc): *provides many of the necessary tools for processing of ccd images*
 8. [astropyp](https://github.com/fred3m/astropyp): *Astropyp is a python package designed to aid observers in processing and analyzing astronomical images.*
-9. [arghphot](https://github.com/balbinot/arghphot): check it out, could be of use.
+9. [arghphot](https://github.com/balbinot/arghphot): ???
 10. [photutils](https://photutils.readthedocs.io): tools for detecting and performing photometry of astronomical sources
 11. [reproject](https://github.com/astrofrog/reproject): Python-based Astronomical image reprojection
+12. [LEMON](https://github.com/vterron/lemon/): *differential-photometry pipeline, written in Python, that determines the changes in the brightness of astronomical objects over time and compiles their measurements into light curves. The aim of this program is to make it possible to completely reduce thousands of FITS images of time series in a matter of only a few hours, requiring minimal user interaction.*
 
 ### Literature
 
