@@ -25,3 +25,5 @@
 8. [New variable stars discovered in the fields of three Galactic open clusters using the VVV Survey, Palma et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160605028P)
 9. [Variable Stars in the Quintuplet stellar sluster with the VVV Survey, Navarro et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160701795N)
 10. [The Clusters AgeS Experiment (CASE). Variable stars in the field of the globular cluster NGC 362, Rozyczka et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv161002173R)
+11. [A machine learned classifier for RR Lyrae in the VVV survey, Elorrieta et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv161005707E)
+
