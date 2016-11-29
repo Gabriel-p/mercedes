@@ -26,4 +26,6 @@
 9. [Variable Stars in the Quintuplet stellar sluster with the VVV Survey, Navarro et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv160701795N)
 10. [The Clusters AgeS Experiment (CASE). Variable stars in the field of the globular cluster NGC 362, Rozyczka et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv161002173R)
 11. [A machine learned classifier for RR Lyrae in the VVV survey, Elorrieta et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv161005707E)
+12. [Variability in the Milky Way: Contact binaries as diagnostic tools, de Grijs et al. (2016)](https://arxiv.org/abs/1611.08409)
+13. [Machine-Learned Identification of RR Lyrae Stars from Sparse, Multi-band Data: the PS1 Sample, Sesar et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv161108596S)
 
