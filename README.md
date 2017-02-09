@@ -33,3 +33,4 @@
 13. [Machine-Learned Identification of RR Lyrae Stars from Sparse, Multi-band Data: the PS1 Sample, Sesar et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv161108596S)
 14. [The OGLE Collection of Variable Stars. Eclipsing Binaries in the Magellanic System, Pawlak et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv161206394P)
 15. [CCD time-series photometry of variable stars in globular clusters and the metallicity dependence of the horizontal branch luminosity, Arellano et al. (2017)](http://adsabs.harvard.edu/abs/2017arXiv170102719A)
+16. [RR Lyrae stars in NGC 6362, Smolec et al. (2017)](http://adsabs.harvard.edu/abs/2017MNRAS.tmp..159S)
