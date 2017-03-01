@@ -15,6 +15,7 @@
 11. [reproject](https://github.com/astrofrog/reproject): Python-based Astronomical image reprojection
 12. [LEMON](https://github.com/vterron/lemon/): *differential-photometry pipeline, written in Python, that determines the changes in the brightness of astronomical objects over time and compiles their measurements into light curves. The aim of this program is to make it possible to completely reduce thousands of FITS images of time series in a matter of only a few hours, requiring minimal user interaction.*
 13. [Photometry Pipeline (PP)](https://github.com/mommermi/photometrypipeline): *Python software package for automated photometric analysis of imaging data from small to medium-sized observatories*
+14. [VaST: a variability search toolkit, Sokolovsky & Lebedev (2017)](http://adsabs.harvard.edu/abs/2017arXiv170207715S): *software package designed to find variable objects in a series of sky images*
 
 ### Literature
 
