@@ -35,3 +35,4 @@
 14. [The OGLE Collection of Variable Stars. Eclipsing Binaries in the Magellanic System, Pawlak et al. (2016)](http://adsabs.harvard.edu/abs/2016arXiv161206394P)
 15. [CCD time-series photometry of variable stars in globular clusters and the metallicity dependence of the horizontal branch luminosity, Arellano et al. (2017)](http://adsabs.harvard.edu/abs/2017arXiv170102719A)
 16. [RR Lyrae stars in NGC 6362, Smolec et al. (2017)](http://adsabs.harvard.edu/abs/2017MNRAS.tmp..159S)
+17. [Variable stars in the Gaia era: Mira, RR Lyrae, delta and Type-II Cepheids, Groenewegen (2017)](http://adsabs.harvard.edu/abs/2017arXiv170602911G)
